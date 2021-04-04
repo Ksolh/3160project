@@ -1,3 +1,8 @@
+Introduction
+
+In this project, our group has been given a database to analyze and enhance to include a rating system for restaurants and delivery drivers. Doing this will increase the safety of campuses and give the university a better understanding of who is entering the premises based on background checks, verified license numbers and ratings. To start off this project, we have divided each section up into manageable parts. The first is a Use Case diagram that helps represent the interactions between each user with the system like the driver and student with delivery, location and order. The second are Business Rules that specify the rules that must take place during these interactions with the drivers, students and faculty. Finally, an enhanced EERD diagram will be used to help specify the relationship between entities. This is useful when applying all the business rules that are defined for customers and various entities. All this put together will be useful for creating a fully functional rating system to improve deliveries and increase safety on campuses. 
+
+
 Business Rules
 *	Customers (Students & faculty) will have an account using their name, email, phone number and can be assigned a username and password. 
     *   User must have a verified address with google maps, with optional drop off or food delivery locations. 
