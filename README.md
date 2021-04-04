@@ -14,5 +14,8 @@ Introduction
 *	All restaurants must be approved and approached by the company before any deliveries can be taken. 
 *	Credit and Debit cards are verified by the bank before any orders are taken. A small reservation fee is charged in case of cancellation. 
     *   Orders that are cancelled will not affect the ratings of drivers or restaurants.
+
+
+
 **EERD**
 ![EERD Diagram](https://user-images.githubusercontent.com/79599152/113522836-cc845600-9571-11eb-81a2-747d0e67955e.png)
