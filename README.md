@@ -1,7 +1,7 @@
 
 # 3160 Project
 
-## Groupt 10:Alazar Shimbir,Kareem Solh,Mihret Tadesse,Naomi Verma, Simreab Ketema
+## Group 10: Alazar Shimbir, Kareem Solh, Mihret Tadesse, Naomi Verma, Simreab Ketema
 
 
 ## Introduction
