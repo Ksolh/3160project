@@ -30,7 +30,8 @@
 ## EERD
 The database design have 
 
-![EERD Diagram](https://user-images.githubusercontent.com/79599152/113522836-cc845600-9571-11eb-81a2-747d0e67955e.png)
+![EERD Diagram](https://user-images.githubusercontent.com/79599152/113529940-d2d6fa00-9592-11eb-9262-9bf123e1538b.png)
+
 
 
 ## MySQL Queries
