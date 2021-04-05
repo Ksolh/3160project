@@ -28,7 +28,7 @@
 
 
 ## EERD
-The database design have 
+The database design have 11 tabels with diffrent entities. And each entity has its own attributes, and a relationship between them. The diagram below shows the fully norrmalized data.
 
 ![EERD Diagram](https://user-images.githubusercontent.com/79599152/113529940-d2d6fa00-9592-11eb-9262-9bf123e1538b.png)
 
