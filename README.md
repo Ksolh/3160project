@@ -29,4 +29,8 @@ The database design have
 
 **Use Case for Rating System**
 
-![use case](https://user-images.githubusercontent.com/77816981/113527200-be8eff00-958a-11eb-9638-a6b51c34f7c9.png)
+
+**Data Dictionary**
+
+![p1f2frrvq41i7o58k1bod5m7brv5-0](https://user-images.githubusercontent.com/79599152/113529237-f600aa00-9590-11eb-9141-aec315720dbc.png)
+
