@@ -26,3 +26,7 @@
 The database design have 
 
 ![EERD Diagram](https://user-images.githubusercontent.com/79599152/113522836-cc845600-9571-11eb-81a2-747d0e67955e.png)
+
+**Use Case**
+
+![use case](https://user-images.githubusercontent.com/77816981/113526961-eaf64b80-9589-11eb-804e-c2aad97c909f.png)
