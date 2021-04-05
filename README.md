@@ -1,15 +1,20 @@
 
-**3160 Project**
+# 3160 Project
 
-**Groupt 10:Alazar Shimbir,Kareem Solh,Mihret Tadesse,Naomi Verma, Simreab Ketema**
+## Groupt 10:Alazar Shimbir,Kareem Solh,Mihret Tadesse,Naomi Verma, Simreab Ketema
 
 
-**Introduction**
+## Introduction
 
    In this project, our group has been given a database to analyze and enhance to include a rating system for restaurants and delivery drivers. Doing this will increase the safety of campuses and give the university a better understanding of who is entering the premises based on background checks, verified license numbers and ratings. To start off this project, we have divided each section up into manageable parts. The first is a Use Case diagram that helps represent the interactions between each user with the system like the driver and student with delivery, location and order. The second are Business Rules that specify the rules that must take place during these interactions with the drivers, students and faculty. Finally, an enhanced EERD diagram will be used to help specify the relationship between entities. This is useful when applying all the business rules that are defined for customers and various entities. All this put together will be useful for creating a fully functional rating system to improve deliveries and increase safety on campuses. 
 
 
-**Business Rules**
+## Use Case for Rating System
+
+![use case](https://user-images.githubusercontent.com/77816981/113527200-be8eff00-958a-11eb-9638-a6b51c34f7c9.png)
+
+
+## Business Rules
 *	Customers (Students & faculty) will have an account using their name, email, phone number and can be assigned a username and password. 
     *   User must have a verified address with google maps, with optional drop off or food delivery locations. 
 *	Driver must be verified with us, with a background check and must be students at the university. 
@@ -22,15 +27,22 @@
     *   Orders that are cancelled will not affect the ratings of drivers or restaurants.
 
 
-**EERD**
+## EERD
 The database design have 
 
 ![EERD Diagram](https://user-images.githubusercontent.com/79599152/113522836-cc845600-9571-11eb-81a2-747d0e67955e.png)
 
-**Use Case for Rating System**
+
+## MySQL Queries
 
 
-**Data Dictionary**
+## Stored Procedure
 
-![p1f2frrvq41i7o58k1bod5m7brv5-0](https://user-images.githubusercontent.com/79599152/113529237-f600aa00-9590-11eb-9141-aec315720dbc.png)
 
+## Web/App Implementation
+
+
+## MySQL dump
+
+
+## Project Video
