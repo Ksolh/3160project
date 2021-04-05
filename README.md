@@ -27,6 +27,6 @@ The database design have
 
 ![EERD Diagram](https://user-images.githubusercontent.com/79599152/113522836-cc845600-9571-11eb-81a2-747d0e67955e.png)
 
-**Use Case**
+**Use Case for Rating System**
 
 ![use case](https://user-images.githubusercontent.com/77816981/113527200-be8eff00-958a-11eb-9638-a6b51c34f7c9.png)
