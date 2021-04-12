@@ -38,7 +38,8 @@ The database design have 11 tabels with diffrent entities. And each entity has i
 [SQL Dump File](https://github.com/Ksolh/3160project/blob/main/campus_eats_dump_file.sql)
 
 ## Stored Procedure
-One stored procedure thats is going to be necessary for this project is adding a rating system to the database
+One stored procedure thats is going to be necessary for this project is adding a rating system to the database.
+
 [Stored procedure for rating ](https://github.com/Ksolh/3160project/blob/main/add_rating.sql)
 
 
