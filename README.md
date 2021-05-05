@@ -40,7 +40,7 @@ The database design have 11 tabels with diffrent entities. And each entity has i
 ## Stored Procedure
 One stored procedure thats is going to be necessary for this project is adding a rating system to the database.
 
-[Stored procedure for rating ](https://github.com/Ksolh/3160project/blob/main/add_rating.sql)
+[Stored procedure for rating ](https://github.com/Ksolh/3160project/blob/main/Stored%20procedures/add_rating.sql)
 Stored procedure named 'add_rating' calculates the rating of the driver.
 
 ![MySQLWorkbench_ti6vYNBI9y](https://user-images.githubusercontent.com/71343779/117223433-a4d81600-addb-11eb-891b-718442c13cd0.png)
