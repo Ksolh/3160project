@@ -46,6 +46,7 @@ Stored procedure named 'add_rating' calculates the rating of the driver.
 ![MySQLWorkbench_ti6vYNBI9y](https://user-images.githubusercontent.com/71343779/117223433-a4d81600-addb-11eb-891b-718442c13cd0.png)
 
 This calls the stored procedure
+
 ![MySQLWorkbench_wyoch8ogEs](https://user-images.githubusercontent.com/71343779/117223480-c20ce480-addb-11eb-9d92-d1b1b2e6d2c8.png)
 
 
