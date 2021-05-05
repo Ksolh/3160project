@@ -42,6 +42,7 @@ One stored procedure thats is going to be necessary for this project is adding a
 
 [Stored procedure for rating ](https://github.com/Ksolh/3160project/blob/main/add_rating.sql)
 
+![MySQLWorkbench_ti6vYNBI9y](https://user-images.githubusercontent.com/71343779/117223433-a4d81600-addb-11eb-891b-718442c13cd0.png)
 
 
 ## Web/App Implementation
