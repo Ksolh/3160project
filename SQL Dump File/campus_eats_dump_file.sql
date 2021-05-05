@@ -477,21 +477,3 @@ CREATE TABLE IF NOT EXISTS `Campus_Eats_Fall2020`.`ratings` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB
-
-
-
-
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
