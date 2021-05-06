@@ -54,6 +54,7 @@ This calls the stored procedure
 One view that we tried to create was where people can see the driver quality. This can be done by using multiple quieries to find the best rating and then output if the driver is good or bad and do the same thing for the resturant quality.
 
 ## MySQL dump
+SQL Dump File/campus_eats_dump_file.sql
 
 
 ## Project Video
