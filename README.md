@@ -32,6 +32,10 @@ The database design have 11 tabels with diffrent entities. And each entity has i
 
 ![EERD Diagram](https://user-images.githubusercontent.com/79599152/113529940-d2d6fa00-9592-11eb-9262-9bf123e1538b.png)
 
+## Data Dictionary
+![p1f2frrvq41i7o58k1bod5m7brv5-0](https://user-images.githubusercontent.com/79599152/117309793-c1626580-ae50-11eb-9932-d0a9ef546f32.png)
+
+
 
 
 ## MySQL Queries
