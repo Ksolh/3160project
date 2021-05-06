@@ -50,7 +50,7 @@ This calls the stored procedure
 ![MySQLWorkbench_wyoch8ogEs](https://user-images.githubusercontent.com/71343779/117223480-c20ce480-addb-11eb-9d92-d1b1b2e6d2c8.png)
 
 
-## Indes views
+## Indexes and views
 One view that we tried to create was where people can see the driver quality. This can be done by using multiple quieries to find the best rating and then output if the driver is good or bad and do the same thing for the resturant quality.
 
 ## MySQL dump
